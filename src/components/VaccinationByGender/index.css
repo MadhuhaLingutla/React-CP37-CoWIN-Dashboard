@@ -1,0 +1,16 @@
+/* Write your CSS here */
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
+}
+
+.pie-chart-gender {
+  background-color: #1c1c2b;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+.pie-chart-gender-title {
+  color: #6c757d;
+  margin-bottom: 20px;
+}

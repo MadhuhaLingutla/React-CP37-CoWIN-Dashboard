@@ -1,0 +1,16 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+
+.bar-chart-container {
+  background-color: #1c1c2b;
+  padding: 30px;
+  margin-bottom: 30px;
+}
+.vaccination-coverage-title {
+  color: #6c757d;
+  margin-bottom: 20px;
+}

@@ -1,0 +1,52 @@
+/* Write your CSS here */
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Roboto';
+}
+
+.cowin-container {
+  background-color: #161625;
+  height: 100%;
+  padding-right: 300px;
+  padding-left: 300px;
+  padding-top: 40px;
+}
+.header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.logo-image {
+  height: 40px;
+  width: 40px;
+  margin-right: 10px;
+}
+.header-title {
+  color: #2cc6c6;
+  font-size: 25px;
+}
+
+.title {
+  color: #cbd5e1;
+  margin-bottom: 20px;
+}
+
+.responsive-container {
+}
+
+.failure-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.failure-view {
+  height: 500px;
+  width: 700px;
+}
+
+.charts-container {
+  display: flex;
+  flex-direction: column;
+}
